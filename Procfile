@@ -1,0 +1,1 @@
+web: gunicorn nascenture.wsgi --log-file -
